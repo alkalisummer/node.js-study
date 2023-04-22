@@ -1,3 +1,3 @@
 # node.js-study
 
-node.js 개인 study
+node.js 개인 study.
